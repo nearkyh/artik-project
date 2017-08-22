@@ -1,0 +1,2 @@
+model_checkpoint_path: "training_save"
+all_model_checkpoint_paths: "training_save"

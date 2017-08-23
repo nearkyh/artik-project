@@ -1,0 +1,10 @@
+name: artik
+channels: !!python/tuple
+- menpo
+- defaults
+dependencies:
+- python=3.5.3
+- pip:
+  - tensorflow-gpu==1.2.0
+prefix: /home/yong/anaconda/envs/artik
+

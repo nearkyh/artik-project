@@ -26,4 +26,4 @@ Implement speech recognition and conversation
 ### Configuration Env
 
 - Artik710(Fedora)
-- python 3.5
+- Python 3.5

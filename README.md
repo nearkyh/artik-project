@@ -10,7 +10,7 @@ Object recognition and Face recognition based on Deeplearning(tensorflow)
 ### Configuration Env
 
 - Ubuntu 16.04
-- Anaconda3-4.1.1
+- [Anaconda3-4.1.1](http://yongyong-e.tistory.com/8)
 - Python 3.5
 - [Tensorflow 1.2](http://yongyong-e.tistory.com/10)
 

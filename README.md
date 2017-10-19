@@ -1,13 +1,29 @@
-# artik_server
+# Artik App
 
-For object recognition and face recognition
+Object and Face recognition app using Artik(Speech Recognition)
+
+
+## [Server](https://github.com/yonghankim/artik_app/tree/master/artik_server)
+
+Object recognition and Face recognition based on Deeplearning(tensorflow)
+
+### Configuration Env
+
+- Ubuntu 16.04
+- Anaconda3-4.1.1
+- Python 3.5
+- [Tensorflow 1.2](http://yongyong-e.tistory.com/10)
 
 ### Requirements
 
-conda env create -f environment.yml
+- conda env create -f environment.yml
 
 
-
-# artik_client
+## [Client](https://github.com/yonghankim/artik_app/tree/master/artik_client)
 
 Implement speech recognition and conversation
+
+### Configuration Env
+
+- Artik710(Fedora)
+- python 3.5

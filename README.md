@@ -1,4 +1,4 @@
-# Project Artik
+# Artik Project
 
 Object and Face recognition app using Artik(Speech Recognition)
 
